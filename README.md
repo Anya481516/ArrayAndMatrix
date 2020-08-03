@@ -55,7 +55,7 @@ class RandomMatrix {
 
 ## OUTPUT:
 Original array: [1, 2, 3, 4]
-Reversed array: [4, 3, 2, 1]
+\nReversed array: [4, 3, 2, 1]
 
 Original Matrix:
 [38, 62, 69, 33, 22]
