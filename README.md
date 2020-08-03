@@ -1,6 +1,5 @@
 # ArrayAndMatrix
 ## Code:
-// 1
 var a : Array = [1, 2, 3, 4]
 print("Original array: \(a)")
 reverseArray(&a)
@@ -13,7 +12,6 @@ func reverseArray(_ array: inout[Int]) {
     }
 }
 
-// 2
 let N = 4
 let M = 5
 
